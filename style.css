@@ -1,0 +1,94 @@
+body{
+    background-image: url(imagem/Purple\ Lighting\ Quote\ Wallpaper.png);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 15px;
+    padding: 40px;
+    border: 1px solid #e300f8f8;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+h1{
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+label{
+    display: block;
+    font-size:large;
+    margin: 10px 0;
+    color: #ffffff;
+    top: 60%;
+}
+input[type="text"], input[type="password"]{
+    border-radius: 5px;
+    font-size: 1.2em;
+    padding: 5px;
+    width: 100%;
+    background-color:rgba(75, 1, 1, 0.205) ;
+    margin: 10px auto;
+}
+[type="submit"]{
+    text-align: center;
+    background-color: rgba(166, 6, 187, 0.986);
+    border: none;
+    font-size: 1.2em;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px auto;
+    border: 20px auto; 
+
+    
+    
+}
+button{
+    color: #ffffff;
+}
+button:hover{
+    background-color: rgb(183, 2, 207);
+}
+a{
+    color: rgb(252, 247, 247);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold ;
+
+
+}
+a:hover{
+    text-decoration: underline;
+}
+p{
+    color: #ffffff;
+    font-size: small;
+    text-align: center;
+}  
+input[type="checkbox"]{
+    margin: 10px 5px;
+    position: absolute;
+    top: 63%;
+}
+h6{
+    color: #ffffff;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    font-weight: 400;
+    
+    
+
+}
